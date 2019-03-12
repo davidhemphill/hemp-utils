@@ -1,6 +1,6 @@
 {
   "name": "hemp-utils",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Handy utilities for every JavaScript project",
   "source": "src/index.js",
   "module": "dist/hemp-utils.mjs",
