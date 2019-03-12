@@ -1,17 +1,32 @@
 {
-    "name": "hemp-utils",
-    "version": "0.1.0",
-    "description": "Handy utilities for every JavaScript project",
-    "source": "src/index.js",
-    "module": "dist/hemp-utils.mjs",
-    "main": "dist/hemp-utils.js",
-    "umd:main": "dist/hemp-utils.umd.js",
-    "scripts": {
-        "build": "microbundle",
-        "dev": "microbundle watch",
-        "prepare": "yarn build"
-    },
-    "dependencies": {
-        "microbundle": "^0.11.0"
-    }
+  "name": "hemp-utils",
+  "version": "0.1.0",
+  "description": "Handy utilities for every JavaScript project",
+  "source": "src/index.js",
+  "module": "dist/hemp-utils.mjs",
+  "main": "dist/hemp-utils.js",
+  "umd:main": "dist/hemp-utils.umd.js",
+  "scripts": {
+    "build": "microbundle",
+    "dev": "microbundle watch",
+    "prepare": "yarn build"
+  },
+  "dependencies": {
+    "microbundle": "^0.11.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidhemphill/hemp-utils.git"
+  },
+  "keywords": [
+    "javascript",
+    "utils"
+  ],
+  "author": "David Hemphill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidhemphill/hemp-utils/issues"
+  },
+  "homepage": "https://github.com/davidhemphill/hemp-utils#readme"
 }
