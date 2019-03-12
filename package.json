@@ -11,10 +11,10 @@
     "dev": "microbundle watch",
     "prepare": "yarn build"
   },
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "microbundle": "^0.11.0"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/davidhemphill/hemp-utils.git"
