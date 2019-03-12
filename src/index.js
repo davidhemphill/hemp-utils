@@ -1,5 +1,3 @@
 import minimum from './minimum'
 
-export {
-    minimum
-}
+export {minimum}
